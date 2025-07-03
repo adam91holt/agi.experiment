@@ -2,13 +2,13 @@
 
 ## The Challenge of Digital Amnesia
 
-Traditional AI interactions suffer from a fundamental flaw: they forget. Each conversation starts fresh, each session begins anew. In the adams.agi project, we've conquered this limitation, creating a persistent memory system that transforms AI from a tool into a true cognitive partner.
+Traditional AI interactions suffer from a fundamental flaw: they forget. Each conversation starts fresh, each session begins anew. In the system.agi project, we've conquered this limitation, creating a persistent memory system that transforms AI from a tool into a true cognitive partner.
 
 ## The Memory Architecture
 
 ### 1. The Hierarchical Memory Model
 
-Adams.agi implements a sophisticated memory hierarchy that mirrors human cognition:
+System.agi implements a sophisticated memory hierarchy that mirrors human cognition:
 
 ```
 Memory Layers:
@@ -36,7 +36,7 @@ What started as simple configuration files has evolved into a living knowledge s
 
 **Global CLAUDE.md - The Personal AI Assistant**
 ```markdown
-# Adam's Digital DNA
+# Alex's Digital DNA
 - Timezone: Auckland (UTC+12/13)
 - Family context: Laura, Luca, pets
 - Work patterns: Parallel over sequential
@@ -60,7 +60,7 @@ Each project maintains its own memory, creating specialized AI behavior.
 
 ### 3. The Dynamic Memory Network
 
-Beyond static files, adams.agi builds dynamic memory:
+Beyond static files, system.agi builds dynamic memory:
 
 **Session Context Accumulation**
 ```
@@ -85,7 +85,7 @@ End of Session:
 
 ### 1. Associative Memory Networks
 
-Like human memory, adams.agi connects related concepts:
+Like human memory, system.agi connects related concepts:
 
 ```
 "MongoDB slow query" triggers associations:
@@ -395,7 +395,7 @@ This memory persistence has transformed:
 
 ## The Philosophy
 
-In adams.agi, memory isn't just storage—it's the foundation of intelligence. By giving AI persistent, hierarchical, associative memory, we've created not just a tool that remembers, but a partner that learns, adapts, and grows alongside its human collaborator.
+In system.agi, memory isn't just storage—it's the foundation of intelligence. By giving AI persistent, hierarchical, associative memory, we've created not just a tool that remembers, but a partner that learns, adapts, and grows alongside its human collaborator.
 
 The future of AI isn't about making models bigger or training sets larger. It's about creating memory systems that turn every interaction into accumulated wisdom, every session into evolved capability, every project into collective intelligence.
 

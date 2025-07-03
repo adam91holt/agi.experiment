@@ -2,13 +2,13 @@
 
 ## The Evolution from Tasks to Workflows
 
-In the adams.agi ecosystem, we've moved beyond simple task automation to creating living, breathing workflows that adapt, learn, and optimize themselves. These aren't rigid pipelines but intelligent process networks that respond to changing conditions and improve through experience.
+In the system.agi ecosystem, we've moved beyond simple task automation to creating living, breathing workflows that adapt, learn, and optimize themselves. These aren't rigid pipelines but intelligent process networks that respond to changing conditions and improve through experience.
 
 ## The Anatomy of Intelligent Workflows
 
 ### 1. Self-Assembling Workflows
 
-Traditional automation requires predefined steps. Adams.agi workflows build themselves:
+Traditional automation requires predefined steps. System.agi workflows build themselves:
 
 ```
 User Intent: "Prepare for client meeting with Brittain Wynyard"
@@ -312,7 +312,7 @@ While executing primary path:
 
 ### 1. Workflows as Living Entities
 
-In adams.agi, workflows aren't static configurations but living, evolving entities that:
+In system.agi, workflows aren't static configurations but living, evolving entities that:
 - Learn from each execution
 - Adapt to changing conditions
 - Optimize themselves
@@ -362,7 +362,7 @@ Interconnected workflow networks:
 
 ## The Impact
 
-The workflow automation in adams.agi has transformed:
+The workflow automation in system.agi has transformed:
 - **Reactive to Proactive**: Problems solved before they're noticed
 - **Sequential to Parallel**: 10x speed improvements
 - **Rigid to Adaptive**: Workflows that evolve with needs

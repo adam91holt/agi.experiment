@@ -2,15 +2,15 @@
 
 ## Welcome to the Future of Human-AI Collaboration
 
-This comprehensive knowledge base documents the adams.agi project—a groundbreaking experiment in advanced AI orchestration that's redefining what's possible when humans and artificial intelligence work together.
+This comprehensive knowledge base documents the system.agi project—a groundbreaking experiment in advanced AI orchestration that's redefining what's possible when humans and artificial intelligence work together.
 
 ## Document Series Overview
 
 ### 1. [Introduction: The AGI Experiment](01-introduction-agi-experiments.md)
-Discover the vision behind adams.agi and why this project represents a fundamental shift in human-AI collaboration.
+Discover the vision behind system.agi and why this project represents a fundamental shift in human-AI collaboration.
 
 ### 2. [Current Usage Patterns](02-current-usage-patterns.md)
-Explore how Adam orchestrates AI today, from parallel research operations to sophisticated incident response.
+Explore how Alex orchestrates AI today, from parallel research operations to sophisticated incident response.
 
 ### 3. [Missed Opportunities](03-missed-opportunities.md)
 Uncover the vast untapped potential in existing tools and integrations waiting to be activated.
@@ -50,6 +50,6 @@ This knowledge base is structured for rich podcast discussions. Each document bu
 
 ## The Journey Continues
 
-The adams.agi project isn't finished—it's actively evolving. These documents capture a moment in time of an ongoing experiment that's pushing the boundaries of what's possible with AI.
+The system.agi project isn't finished—it's actively evolving. These documents capture a moment in time of an ongoing experiment that's pushing the boundaries of what's possible with AI.
 
 Welcome to the future. It's being built right now.

@@ -236,7 +236,7 @@ while (true) {
 ✅ Anticipatory Patterns:
 Time-based: "It's Monday, pre-load weekly workflows"
 Pattern-based: "PR merged usually means deployment check"
-User-based: "Adam always checks X after Y"
+User-based: "Alex always checks X after Y"
 
 Workflows ready before needed
 ```
@@ -455,6 +455,6 @@ Best practices evolve
 
 Remember: AGI isn't about replacing human intelligence—it's about amplifying it. The best practice above all others is to maintain human agency, creativity, and judgment while leveraging AI to handle complexity, scale, and repetition.
 
-The adams.agi project shows what's possible when we approach AI not as a tool to be used, but as a partner to collaborate with. The future belongs to those who master this collaboration.
+The system.agi project shows what's possible when we approach AI not as a tool to be used, but as a partner to collaborate with. The future belongs to those who master this collaboration.
 
 Now go forth and build something amazing.

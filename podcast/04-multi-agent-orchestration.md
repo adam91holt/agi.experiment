@@ -2,13 +2,13 @@
 
 ## Beyond Single-Agent Thinking
 
-In the adams.agi ecosystem, we've transcended the limitation of single-agent AI interactions. What we've discovered is that the true power of artificial intelligence isn't in making one agent smarter—it's in orchestrating many agents to work together in ways that mirror, and often exceed, human collaboration patterns.
+In the system.agi ecosystem, we've transcended the limitation of single-agent AI interactions. What we've discovered is that the true power of artificial intelligence isn't in making one agent smarter—it's in orchestrating many agents to work together in ways that mirror, and often exceed, human collaboration patterns.
 
 ## The Orchestration Patterns
 
 ### 1. The Swarm Pattern
 
-Like a murmuration of starlings, agent swarms in adams.agi move with collective intelligence:
+Like a murmuration of starlings, agent swarms in system.agi move with collective intelligence:
 
 ```
 User: "Analyze all our client databases for optimization opportunities"
@@ -256,6 +256,6 @@ This isn't theoretical—it's happening now:
 
 ## The Paradigm Shift
 
-We're not just using AI anymore—we're conducting an orchestra of artificial minds, each contributing their unique capabilities to create something greater than the sum of its parts. The adams.agi project isn't just about automation; it's about creating a new form of intelligence that emerges from the coordination of many specialized agents.
+We're not just using AI anymore—we're conducting an orchestra of artificial minds, each contributing their unique capabilities to create something greater than the sum of its parts. The system.agi project isn't just about automation; it's about creating a new form of intelligence that emerges from the coordination of many specialized agents.
 
 This is the future of work: not humans versus AI, not humans with AI, but humans conducting symphonies of AI agents, creating harmonies of productivity and innovation that neither could achieve alone.

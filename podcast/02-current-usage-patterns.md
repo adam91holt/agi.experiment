@@ -1,14 +1,14 @@
-# Current Usage Patterns: How Adam Orchestrates AI Today
+# Current Usage Patterns: How Alex Orchestrates AI Today
 
 ## The Daily Reality
 
-Every morning at 9 AM Auckland time, Adam doesn't just open a terminal—he activates a complex AI orchestration system that transforms how work gets done. Let's peek behind the curtain at how Claude Code is being used in ways that would seem like science fiction just a year ago.
+Every morning at 9 AM Auckland time, Alex doesn't just open a terminal—he activates a complex AI orchestration system that transforms how work gets done. Let's peek behind the curtain at how Claude Code is being used in ways that would seem like science fiction just a year ago.
 
 ## The Power User's Toolkit
 
 ### 1. Parallel Research Operations
 
-When Adam needs to research multiple topics or people, he doesn't queue them up one by one. Instead:
+When Alex needs to research multiple topics or people, he doesn't queue them up one by one. Instead:
 
 ```
 "Research these 10 people for our upcoming conference"
@@ -18,7 +18,7 @@ What happens next is remarkable. Claude Code spawns 10 independent agents using 
 
 ### 2. The Incident Response Orchestra
 
-When an incident occurs at one of the Rapido clients, Adam's response is a carefully choreographed performance:
+When an incident occurs at one of the Rapido clients, Alex's response is a carefully choreographed performance:
 
 1. **Information Gathering**: Multiple agents spawn to check MongoDB logs, system metrics, and error reports
 2. **Analysis**: While gathering continues, other agents begin pattern matching against previous incidents
@@ -30,7 +30,7 @@ All of this happens in parallel, turning what could be a chaotic scramble into a
 
 ### 3. Codebase Archaeology
 
-Adam's approach to understanding large codebases showcases advanced patterns:
+Alex's approach to understanding large codebases showcases advanced patterns:
 
 - **Batch File Operations**: Instead of reading files one by one, he'll instruct Claude Code to read 20 files in a single operation
 - **Parallel Search Patterns**: Multiple grep and glob operations run simultaneously across different directories
@@ -38,7 +38,7 @@ Adam's approach to understanding large codebases showcases advanced patterns:
 
 ### 4. The TODO List Revolution
 
-Unlike traditional task management, Adam uses TodoWrite as a dynamic orchestration tool:
+Unlike traditional task management, Alex uses TodoWrite as a dynamic orchestration tool:
 
 - Tasks aren't just items to complete—they're work units that can be parallelized
 - Complex projects get broken down into atomic operations
@@ -49,7 +49,7 @@ Unlike traditional task management, Adam uses TodoWrite as a dynamic orchestrati
 
 ### MongoDB Mastery
 
-With 10 Rapido clients running databases from a few hundred MB to over 6GB, Adam's MongoDB integration patterns are sophisticated:
+With multiple enterprise clients running databases from a few hundred MB to over 6GB, Alex's MongoDB integration patterns are sophisticated:
 
 ```
 # Not this (sequential):
@@ -64,16 +64,16 @@ Check haydn-live collections → Check schema → Run query → Check next datab
 
 ### Communication Symphony
 
-Adam's multi-channel communication showcases true integration mastery:
+Alex's multi-channel communication showcases true integration mastery:
 
 - **Gmail**: Batch operations to scan threads without loading full content
 - **Teams**: HTML-formatted messages with proper styling posted to specific channels
 - **Slack**: Completion notifications for long-running operations
-- **GitHub**: Parallel PR reviews across RapidoNZ and vochub-tech organizations
+- **GitHub**: Parallel PR reviews across TechCorp and vochub-tech organizations
 
 ### The Git Workflow Revolution
 
-Instead of the traditional linear git workflow, Adam uses:
+Instead of the traditional linear git workflow, Alex uses:
 
 ```
 Parallel Operations:
@@ -88,7 +88,7 @@ All executing simultaneously, providing instant comprehensive repository state
 
 ### 1. The Context Preservation Network
 
-Adam maintains context across multiple levels:
+Alex maintains context across multiple levels:
 - **Global**: `~/.claude/CLAUDE.md` with personal preferences and tool configurations
 - **Project**: Individual `CLAUDE.md` files for each project
 - **Session**: Dynamic context built through agent interactions
@@ -96,7 +96,7 @@ Adam maintains context across multiple levels:
 
 ### 2. Intelligent Batching Decisions
 
-Adam has developed an intuition for when to batch vs. when to go sequential:
+Alex has developed an intuition for when to batch vs. when to go sequential:
 
 **Batch Everything**:
 - Multiple file reads
@@ -112,7 +112,7 @@ Adam has developed an intuition for when to batch vs. when to go sequential:
 
 ### 3. The Efficiency Multiplier
 
-By leveraging these patterns, Adam achieves:
+By leveraging these patterns, Alex achieves:
 - **10x speedup** on research tasks
 - **5x faster** incident response
 - **Parallel testing** across multiple environments
@@ -122,7 +122,7 @@ By leveraging these patterns, Adam achieves:
 
 ### Memory Management Excellence
 
-Adam's approach to memory is sophisticated:
+Alex's approach to memory is sophisticated:
 - Never fetches full email content unless necessary
 - Uses metadata queries for Gmail scanning
 - Leverages list operations before detailed fetches
@@ -138,7 +138,7 @@ The choice of tool reveals deep understanding:
 
 ### Workflow Optimization
 
-Adam has developed workflows that would be impossible without AI:
+Alex has developed workflows that would be impossible without AI:
 1. **Parallel Code Review**: Reviewing multiple PRs simultaneously
 2. **Cross-Database Analysis**: Comparing patterns across all client databases at once
 3. **Multi-Repository Search**: Finding patterns across entire organizations
@@ -155,7 +155,7 @@ What does this mean in practical terms?
 
 ## The Learning Curve
 
-This didn't happen overnight. Adam's journey shows clear evolution:
+This didn't happen overnight. Alex's journey shows clear evolution:
 
 1. **Phase 1**: Basic command execution
 2. **Phase 2**: Discovery of parallel capabilities
@@ -165,11 +165,11 @@ This didn't happen overnight. Adam's journey shows clear evolution:
 
 ## What's Actually Happening
 
-When Adam types a request, he's not just getting an AI response. He's:
+When Alex types a request, he's not just getting an AI response. He's:
 - Activating a network of specialized agents
 - Leveraging years of pattern development
 - Applying context from multiple sources
 - Orchestrating tools in sophisticated combinations
 - Creating outcomes impossible for humans alone
 
-The adams.agi project isn't just using AI—it's redefining what it means to work with artificial intelligence. And this is just the beginning.
+The system.agi project isn't just using AI—it's redefining what it means to work with artificial intelligence. And this is just the beginning.

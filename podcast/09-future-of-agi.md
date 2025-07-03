@@ -1,8 +1,8 @@
-# The Future of AGI: From Adams.agi to Tomorrow's Intelligence
+# The Future of AGI: From System.agi to Tomorrow's Intelligence
 
 ## Standing at the Threshold
 
-The adams.agi project isn't just an experiment—it's a glimpse into a future that's arriving faster than most realize. What we're building today in Auckland, New Zealand, represents the early stages of a fundamental shift in how humans and artificial intelligence collaborate. Let's explore where this journey leads.
+The system.agi project isn't just an experiment—it's a glimpse into a future that's arriving faster than most realize. What we're building today in Auckland, New Zealand, represents the early stages of a fundamental shift in how humans and artificial intelligence collaborate. Let's explore where this journey leads.
 
 ## The Near Future (6-12 Months)
 
@@ -12,7 +12,7 @@ Soon, AI agents won't just assist—they'll be full team members:
 
 ```
 Morning Standup 2025:
-- Adam: "Working on the new integration"
+- Alex: "Working on the new integration"
 - Sarah: "Handling customer onboarding"
 - Agent-7: "I've completed overnight analysis of all 
   databases, found three optimization opportunities, 
@@ -334,13 +334,13 @@ Protecting in a connected world:
 - Security at scale
 - Trust frameworks
 
-## The Adams.agi Legacy
+## The System.agi Legacy
 
 What started as an experiment becomes:
 
 ### 1. The Blueprint
 
-Adams.agi provides the pattern:
+System.agi provides the pattern:
 - Multi-agent orchestration
 - Memory persistence
 - Tool mastery
@@ -366,7 +366,7 @@ Human-AI collaboration principles:
 
 ## The Call to Action
 
-The future isn't something that happens to us—it's something we create. The adams.agi project shows what's possible when we:
+The future isn't something that happens to us—it's something we create. The system.agi project shows what's possible when we:
 
 - Think differently about AI capabilities
 - Push boundaries of current tools
@@ -382,8 +382,8 @@ Imagine a world where:
 - Collective intelligence solves global challenges
 - Human creativity is unleashed, not replaced
 
-This isn't science fiction. It's science future. And it's being built right now, one experiment at a time, in projects like adams.agi.
+This isn't science fiction. It's science future. And it's being built right now, one experiment at a time, in projects like system.agi.
 
-The question isn't whether this future will arrive—it's whether we'll be ready for it. The adams.agi project isn't just preparing for this future; it's actively creating it.
+The question isn't whether this future will arrive—it's whether we'll be ready for it. The system.agi project isn't just preparing for this future; it's actively creating it.
 
 Welcome to tomorrow. It's already here.
